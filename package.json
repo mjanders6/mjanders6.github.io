@@ -1,0 +1,22 @@
+{
+  "name": "mjanders6.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjanders6/mjanders6.github.io.git"
+  },
+  "author": "mjanders6",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjanders6/mjanders6.github.io/issues"
+  },
+  "homepage": "https://github.com/mjanders6/mjanders6.github.io#readme",
+  "dependencies": {
+    "materialize-css": "^1.0.0-rc.2"
+  }
+}
